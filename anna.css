@@ -3,7 +3,12 @@ body{
     color: #fff;
 }
 
+#navbar{
+position: sticky;
+top: 0%;
+z-index: 10;
+}
+
 .navbar{
-    border-bottom: #008ed6 3px solid;
-    opacity: 0.8;
+    background-image: linear-gradient (to right, #a517ba, #5f1782);
 }
