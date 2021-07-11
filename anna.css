@@ -14,7 +14,8 @@ body{
 
 
 .navbar,
-.carousel{
+.carousel
+.accordion{
     border-bottom: 1px solid lightblue;
 }
 
@@ -23,4 +24,14 @@ body{
     height: 70vh;
     background-position: center;
     background-size: cover;
+}
+
+.card-image{
+    height: 500px;
+    background-position: center;
+    background-size: cover;
+}
+
+.accordion{
+    color: black;
 }
