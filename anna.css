@@ -7,13 +7,6 @@ body{
     font-family: sans-serif;
 }
 
-#nav-bar{
-    position: sticky;
-    top: 0%;
-    z-index: 10;
-}
-
-.navbar{
-    background-image: linear-gradient(to right, #a517ab, #5f1782);
-    padding: 0%; !important; 
+.myCarousel{
+    align-content: center;
 }
