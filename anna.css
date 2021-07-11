@@ -13,6 +13,7 @@ body{
 }
 
 
+
 .navbar,
 .carousel
 .accordion{
@@ -33,5 +34,10 @@ body{
 }
 
 .accordion{
-    color: black;
+    color: white;
+}
+
+.accordion-black{
+    background: black;
+    color: white;
 }
