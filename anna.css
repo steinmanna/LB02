@@ -15,9 +15,8 @@ body{
 
 
 .navbar,
-.carousel
-.accordion{
-    border-bottom: 1px solid lightblue;
+.carousel{
+    border-bottom: 5px solid lightblue;
 }
 
 .slider-image{
@@ -40,5 +39,6 @@ body{
 .accordion-black{
     background: black;
     color: white;
+    
 }
 
